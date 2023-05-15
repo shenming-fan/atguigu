@@ -8,10 +8,22 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="cloud-api-commons" />
+        <module name="orderConsul-80" />
         <module name="cloud-eureka-server7001" />
         <module name="payment-8001" />
+        <module name="cloud-api-commons" />
+        <module name="payment-8002" />
+        <module name="cloud-eureka-server7002" />
+        <module name="cloud-getway-9527" />
+        <module name="paymentConsul-8006" />
         <module name="order80" />
+        <module name="orderZk-80" />
+        <module name="consmmer-order-openfeign-80" />
+        <module name="payment-hystrix-8001" />
+        <module name="cloud-config-center-3344" />
+        <module name="payment-hystrix-dashboard-9001" />
+        <module name="consumer-order-feign-hystrix-80" />
+        <module name="payment-zookeeper8004" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8" />

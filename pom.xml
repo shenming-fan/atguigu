@@ -13,6 +13,19 @@
     <module>cloud-api-commons</module>
     <module>cloud-api-commons</module>
     <module>cloud-eureka-server7001</module>
+    <module>cloud-eureka-server7002</module>
+    <module>cloud-eureka-server7002</module>
+      <module>payment-8002</module>
+      <module>payment-zookeeper8004</module>
+      <module>orderZk-80</module>
+      <module>paymentConsul-8006</module>
+      <module>orderConsul-80</module>
+      <module>consmmer-order-openfeign-80</module>
+      <module>payment-hystrix-8001</module>
+      <module>consumer-order-feign-hystrix-80</module>
+      <module>payment-hystrix-dashboard-9001</module>
+      <module>cloud-getway-9527</module>
+      <module>cloud-config-center-3344</module>
   </modules>
   <packaging>pom</packaging>
 
